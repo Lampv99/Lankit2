@@ -1,0 +1,9 @@
+body {
+    font-family: "HKGroteskPro", serif;
+    font-size: 1.0625rem;
+    line-height: 1.6rem;
+}
+.btn {
+    border-radius: 0.375rem;
+    font-weight: 600;
+}

@@ -1,0 +1,17 @@
+/* @font-face {
+    font-family: "HKGroteskPro";
+    font-weight: 300;
+    src: url("/hk-grotesk/TTF/HKGrotesk-Bold.ttf");
+} */
+@font-face {
+    font-family: "HKGroteskPro";
+    src: url("/hk-grotesk/TTF/HKGrotesk-Light.ttf");
+}
+/* @font-face {
+    font-family: "HKGroteskPro";
+    src: url("/hk-grotesk/TTF/HKGrotesk-Bold.ttf");
+}
+@font-face {
+    font-family: "HKGroteskPro";
+    src: url("/hk-grotesk/TTF/HKGrotesk-Bold.ttf");
+} */
